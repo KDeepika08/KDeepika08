@@ -3,7 +3,7 @@
 
 <img align = "right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
-- 🌱 I’m currently learning **Web development, Machine Learning**
+- 🌱 I’m currently learning **Machine Learning,Web development**
 
 - 📫 How to reach me **kurrydeepika@gmail.com**
 
